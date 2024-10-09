@@ -1,0 +1,4 @@
+repository "4.34test@wechat_os_qy0yzvevdzzrpnx9sq5m9qqsq@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
